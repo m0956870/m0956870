@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **m0956870@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFFt5YBPsk/fdFvasDgW5VrZX0kcykGDg/view?utm_content=DAFFt5YBPsk&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel](https://www.canva.com/design/DAFFt5YBPsk/fdFvasDgW5VrZX0kcykGDg/view?utm_content=DAFFt5YBPsk&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+- 📄 Know about my experiences [nk&utm_source=](https://drive.google.com/file/d/15F6m0rDc7HhqcTl4Z9U5dgvY30NOtoTB/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
