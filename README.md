@@ -4,16 +4,11 @@
 <p align="left"> <a href="https://twitter.com/m0956870" target="blank"><img src="https://img.shields.io/twitter/follow/m0956870?logo=twitter&style=for-the-badge" alt="m0956870" /></a> </p>
 
 - 🔭 I’m currently working on **Chat Messenger**
-
 - 🌱 I’m currently learning **NextJs**
-
-- 👨‍💻 All of my projects are available at [https://m0956870.github.io/Portfolio](https://m0956870.github.io/Portfolio)
-
 - 💬 Ask me about **JavaScript, MERN stack**
-
 - 📫 How to reach me **m0956870@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15F6m0rDc7HhqcTl4Z9U5dgvY30NOtoTB/view?usp=drivesdk)
+- 📄 Know about my experiences in my [Resume](https://drive.google.com/file/d/15F6m0rDc7HhqcTl4Z9U5dgvY30NOtoTB/view?usp=drivesdk)
+- 👨‍💻 All of my projects are available at [https://m0956870.github.io/Portfolio](https://m0956870.github.io/Portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
