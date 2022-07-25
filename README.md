@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **NextJs**
 - 💬 Ask me about **JavaScript, MERN stack**
 - 📫 How to reach me **m0956870@gmail.com**
-- 📄 Know about my experiences in my [Resume](https://drive.google.com/file/d/15F6m0rDc7HhqcTl4Z9U5dgvY30NOtoTB/view?usp=drivesdk)
+- 📄 Know about my experiences in my [Resume](https://drive.google.com/file/d/1Fvvu7mVuWKo0jWTa0egeXUJEm3tjyzs1/view)
 - 👨‍💻 All of my projects are available at [https://m0956870.github.io/Portfolio](https://m0956870.github.io/Portfolio)
 
 <h3 align="left">Connect with me:</h3>
