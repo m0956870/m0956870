@@ -4,7 +4,6 @@
 <p align="left"> <a href="https://twitter.com/m0956870" target="blank"><img src="https://img.shields.io/twitter/follow/m0956870?logo=twitter&style=for-the-badge" alt="m0956870" /></a> </p>
 
 - 🔭 I’m currently working on **Chat Messenger**
-- 🌱 I’m currently learning **NextJs**
 - 💬 Ask me about **JavaScript, MERN stack**
 - 📫 How to reach me **m0956870@gmail.com**
 - 📄 Know about my experiences in my [Resume](https://drive.google.com/file/d/1Fvvu7mVuWKo0jWTa0egeXUJEm3tjyzs1/view)
